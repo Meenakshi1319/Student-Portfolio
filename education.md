@@ -18,5 +18,5 @@
 - Cisco C Essentials 2
 - HTML and CSS Certification by Pearson
 - Microsoft Fundamental AI Concepts Badge
-- HackerRank Problem Solving (Basic)
+- HackerRank Problem Solving  (Basic)
 - HackerRank SQL (Basic)
