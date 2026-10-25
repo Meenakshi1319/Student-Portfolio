@@ -3,9 +3,11 @@
 Replace these examples with skills you can confidently discuss in an interview.
 
 ## Programming Languages
-- Java — Beginner / Intermediate
-- Python — Beginner / Intermediate
-- C — Beginner
+
+- C
+- C++
+- Python
+- Java
 
 ## Web Technologies
 - HTML
@@ -21,3 +23,16 @@ Replace these examples with skills you can confidently discuss in an interview.
 - Data Structures and Algorithms
 - SQL and database fundamentals
 - Testing and debugging
+
+## Problem Solving
+
+- LeetCode
+- CodeChef
+- Data Structures and Algorithms
+
+## Learning Goals
+
+- Improve Python programming.
+- Learn advanced Machine Learning concepts.
+- Develop practical AI/ML applications.
+- Improve software development and debugging skills.

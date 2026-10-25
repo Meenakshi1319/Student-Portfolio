@@ -1,26 +1,34 @@
 # Projects
 
-Add clear, honest descriptions of academic and personal projects.
+## Project 1: SafeHer - AI-Powered Women's Safety Platform
 
-## Project 1: Student Attendance Tracker
-- **Problem:** Keeping attendance records organised can take time.
-- **Solution:** A small application concept for entering attendance and producing a summary.
-- **Technologies:** Java, CSV files
-- **My contribution:** Implemented the input flow and summary logic.
-- **Possible improvement:** Add data validation and export reports.
+- **Problem:** People may face safety risks during emergencies
+  and may not be able to manually request help.
 
-## Project 2: Personal Portfolio Website
-- **Problem:** Students need a simple way to present their skills and work.
-- **Solution:** A responsive webpage with sections for about, skills, projects, and contact details.
-- **Technologies:** HTML, CSS, Git
-- **My contribution:** Created the page structure and styling.
-- **Possible improvement:** Add a project filter and improve accessibility.
+- **Solution:** SafeHer is a proposed safety platform designed
+  to support emergency alerts and location-based assistance.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
+- **Technologies:** Artificial Intelligence, GPS, and
+  Blockchain concepts.
+
+- **My contribution:** Contributed to the project concept,
+  feature planning, and development activities.
+
+- **Possible improvement:** Improve emergency detection,
+  offline functionality, and alert reliability.
+
+## Project 2: Student Portfolio Website
+
+- **Problem:** Students need a convenient way to showcase
+  their education, technical skills, and projects.
+
+- **Solution:** A personal portfolio website that presents
+  student information and project details.
+
+- **Technologies:** HTML, CSS, Git, and GitHub.
+
+- **My contribution:** Customised the portfolio content,
+  organised project information, and managed changes using Git.
+
+- **Possible improvement:** Add interactive features,
+  project demonstrations, and a downloadable resume.

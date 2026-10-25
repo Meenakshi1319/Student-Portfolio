@@ -1,10 +1,10 @@
 # Education
 
 ## Bachelor of Technology (B.Tech)
-- **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Branch:** Artificial Intelligence and Machine Learning
+- **Institution:** Aditya College of Engineering and Technology
+- **Study period:** 2024 - 2028
+- **CGPA / Percentage:** 9.12
 
 ## Relevant Coursework
 - Programming Fundamentals
@@ -14,5 +14,9 @@
 - Software Engineering
 
 ## Achievements and Certifications
-- Add verified certifications, hackathons, awards, or academic achievements.
-- Include the year and issuing organisation where relevant.
+- Cisco C Essentials 1
+- Cisco C Essentials 2
+- HTML and CSS Certification by Pearson
+- Microsoft Fundamental AI Concepts Badge
+- HackerRank Problem Solving (Basic)
+- HackerRank SQL (Basic)
